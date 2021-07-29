@@ -10,6 +10,6 @@ public class HelloWorld {
 
 	@GetMapping
 	public String getMessage() {
-		return "Welcome to Simple Spring Boot Project";
+		return "Welcome to Simple Spring Boot Project Auto commit deploy";
 	}
 }
